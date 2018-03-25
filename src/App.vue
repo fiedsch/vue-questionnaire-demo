@@ -115,10 +115,10 @@
                         'ask': 'Bitte wählen Sie die von Ihnen bevorzugten Namen und sortieren sie nach Präferenz',
                         'tip': 'Ziehen sie dazu die Namen aus der linken Box in die rechte und sortieren Sie sie dort nach Ihren Präferenzen.',
                         'dragdata': [
-                            {id: 1, name: 'KfW-Avatar'},
+                            {id: 1, name: 'Andreas'},
                             {id: 2, name: 'Sepp'},
-                            {id: 3, name: 'Studi'},
-                            {id: 4, name: 'lalala'},
+                            {id: 3, name: 'Carol'},
+                            {id: 4, name: 'NoName'},
                         ],
                         'dragdatato': [],
                     },
