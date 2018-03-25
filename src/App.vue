@@ -183,7 +183,7 @@
             updateDraggable() {
                 this.currentquestion.dragdata = this.dragdata
                 this.currentquestion.dragdatato = this.dragdatato
-                this.$set(this.responses, this.currentquestion, this.dragdatato.map(function (el) {
+                this.$set(this.responses, this.currentquestion.name, this.dragdatato.map(function (el) {
                     return el.id
                 }))
             },
