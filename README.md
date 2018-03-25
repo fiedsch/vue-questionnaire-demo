@@ -1,6 +1,6 @@
-# vue-draganddrop
+# vue-questionnaire-demo
 
-> Drag and Drop mit Vue
+> Fragebogen-Demo mit Vue
 
 ## Build Setup
 

@@ -1,6 +1,6 @@
 {
-  "name": "vue-draganddrop",
-  "description": "Drag and Drop mit Vue",
+  "name": "vue-questionnaire-demo",
+  "description": "Fragebogendemo mit Vue",
   "version": "1.0.0",
   "author": "Andreas Fieger <fiedsch@ja-eh.at>",
   "license": "MIT",
