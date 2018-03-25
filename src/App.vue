@@ -123,6 +123,19 @@
                         'dragdatato': [],
                     },
                     {
+                        'name': 'drag2',
+                        'type': 'draganddrop',
+                        'ask': 'Bitte wählen Sie die von Ihnen bevorzugten Farben',
+                        'tip': 'Wie eben bei den Namen ...',
+                        'dragdata': [
+                            {id: 1, name: 'Rot'},
+                            {id: 2, name: 'Grün'},
+                            {id: 3, name: 'Blau'},
+                            {id: 4, name: 'gelb'},
+                        ],
+                        'dragdatato': [],
+                    },
+                    {
                         'name': 'zuf',
                         'type': 'singleselect',
                         'ask': 'Wie zufrieden sind Sie mit diesem Fragebogen?',
