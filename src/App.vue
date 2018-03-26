@@ -178,7 +178,6 @@
                     default:
                         return true
                 }
-                return this.responses[this.currentquestionname]
             },
         },
         methods: {
